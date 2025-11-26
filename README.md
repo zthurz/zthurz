@@ -1,11 +1,11 @@
-## Hey! about me
+## Hey, about me!
 
 - 🌱 I’m currently learning Systems Analysis and Development, DataBases and APIs
 - 👯 I’m looking to collaborate on DataBases Projects
 - 🤔 I’m looking for help with Python and Back-End
 - 📫 How to reach me: ArthurContactProfessional@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love play guitar and FPS Games 
+- ⚡ Fun fact: I love FPS Games and Play Guitar
 <div> 
   <a href="https://www.instagram.com/zthurz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ArthurContactProfessional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
